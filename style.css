@@ -1,0 +1,21 @@
+#txt{
+    font-size: 250%;
+}
+#body{
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/2a/b5/af/2ab5afda3961b8cb8fef2f5396c6f80c.jpg);
+    opacity: 0.6;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.square-box{
+    height: 100%;
+    width: 100%;
+    font-size: large;
+}
+
